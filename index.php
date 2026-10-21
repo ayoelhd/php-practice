@@ -155,7 +155,7 @@ if ($q !== '') {
                 <input type="text" name="name" value="<?= e($old['name']) ?>" required>
             </label>
 
-            <label>Email
+            <label>E-mail
                 <input type="email" name="email" value="<?= e($old['email']) ?>" required>
             </label>
 
